@@ -67,7 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Cakes.html" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -84,22 +83,77 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
-    <Content Include="detailed.html" />
-    <Content Include="feedback.html" />
-    <Content Include="headers.css" />
-    <Content Include="album.html" />
-    <Content Include="headers.html" />
-    <Content Include="index.html" />
-    <Content Include="navbar.html" />
-    <Content Include="location.html" />
-    <Content Include="nav.jpg" />
-    <Content Include="products.html" />
+    <Content Include="css\animate\animate.min.css" />
+    <Content Include="css\bootstrap\bootstrap.min.css" />
+    <Content Include="css\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="css\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="css\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="css\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="css\owl-carousel\owl.carousel.min.css" />
+    <Content Include="css\owl-carousel\owl.theme.default.min.css" />
+    <Content Include="css\style.css" />
+    <Content Include="img\about.jpg" />
+    <Content Include="img\cakes.png" />
+    <Content Include="img\favicon.jpg" />
+    <Content Include="img\feedback.jpg" />
+    <Content Include="img\home.jpg" />
+    <Content Include="img\location.jpg" />
+    <Content Include="img\logo-s.png" />
+    <Content Include="js\bootstrap-dropdownhover.min.js" />
+    <Content Include="js\bootstrap\bootstrap.min.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\jquery-easing\jquery.easing.compatibility.js" />
+    <Content Include="js\jquery-easing\jquery.easing.min.js" />
+    <Content Include="js\jquery.lwtCountdown-1.0.js" />
+    <Content Include="js\jquery\jquery.min.js" />
+    <Content Include="js\owl-carousel\owl.carousel.min.js" />
+    <Content Include="js\popper\popper.min.js" />
+    <Content Include="js\scrolling-nav.js" />
+    <Content Include="js\wow\wow.min.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Website\about.html" />
+    <Content Include="Website\feedback.html" />
+    <Content Include="Website\index.html" />
+    <Content Include="Website\cakes.html" />
+    <Content Include="css\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="css\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="css\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="css\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="css\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="css\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="css\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="css\font-awesome-4.7.0\less\core.less" />
+    <Content Include="css\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="css\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="css\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="css\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="css\font-awesome-4.7.0\less\list.less" />
+    <Content Include="css\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="css\font-awesome-4.7.0\less\path.less" />
+    <Content Include="css\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="css\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="css\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="css\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="css\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="css\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="Website\location.html" />
     <None Include="Scripts\jquery-3.6.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.6.0.js" />
     <Content Include="Scripts\jquery-3.6.0.min.js" />
@@ -107,10 +161,6 @@
     <Content Include="Scripts\jquery-3.6.0.slim.min.js" />
     <Content Include="Scripts\main.js" />
     <Content Include="Scripts\popper.js" />
-    <Content Include="style.css" />
-    <Content Include="style1.css" />
-    <Content Include="caketest.html" />
-    <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -149,6 +199,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
